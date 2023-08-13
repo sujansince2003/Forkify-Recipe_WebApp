@@ -1,3 +1,4 @@
+'use strict';
 import { async, aysnc } from 'regenerator-runtime';
 import { API_URL } from './config.js';
 // import { getJSON, sendJSON } from './helpers.js';
@@ -77,8 +78,8 @@ export const loadSearchResults = async function (query) {
 
 export const getSearchResultsPage = function (page = state.search.page) {
   state.search.page = page;
-  start = (page - 1) * state.search.resultPerPage;
-  end = page * state.search.resultPerPage; //page=1 xa vaney 1*10=10 but slice doesnot inlcude last exact value 10 xa vaney 9 samma linxa
+  let start = (page - 1) * state.search.resultPerPage;
+  let end = page * state.search.resultPerPage; //page=1 xa vaney 1*10=10 but slice doesnot inlcude last exact value 10 xa vaney 9 samma linxa
   return state.search.results.slice(start, end);
 };
 

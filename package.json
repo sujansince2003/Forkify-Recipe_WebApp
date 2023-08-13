@@ -6,7 +6,6 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
-
   },
   "author": "sujan khatri",
   "license": "ISC",
