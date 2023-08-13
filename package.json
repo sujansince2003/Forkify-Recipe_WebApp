@@ -1,0 +1,24 @@
+{
+  "name": "forkirecepieapp",
+  "version": "1.0.0",
+  "description": "receipe application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+
+  },
+  "author": "sujan khatri",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.32.0",
+    "fractional": "^1.0.0",
+    "parcel": "^2.9.3",
+    "regenerator-runtime": "^0.13.11",
+    "sass": "^1.64.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "process": "^0.11.10"
+  }
+}
