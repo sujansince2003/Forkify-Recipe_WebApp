@@ -13,22 +13,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://modern-forkify.vercel.app/">
+  <a href="https://forkify-suzancodes.netlify.app/">
     <img src="./src/img/favicon.png" alt="Logo" height="80"  >
   </a>
   <h1 align="center">Forkify</h1>
 
   <p align="center">
-    <a href="https://modern-forkify.vercel.app/">View Demo</a>
+    <a href="[https://modern-forkify.vercel.app/](https://forkify-suzancodes.netlify.app/)">View Demo</a>
     ·
-    <a href="https://github.com/ahmedalam98/Forkify/issues">Report Bug</a>
+
   </p>
 </div>
 
 
 
 ## Description
-This was the final project as part of a Udemy course - [The Complete JavaScript Course 2020](https://www.udemy.com/course/the-complete-javascript-course/).
+This was the final project as part of a Udemy course - [The Complete JavaScript Course 2023](https://www.udemy.com/course/the-complete-javascript-course/).
 Forkify is a recipe finding web application which uses data from the [Forkify](https://forkify-api.herokuapp.com/v2) API. While it is a fairly basic web application, it can be used as a guide to cook one's favorite dish. Beyond accessing recipes from different sources online, it also provides information on the number and amount of ingredients needed to build a specific dish according to the number of people to serve.
 
 
