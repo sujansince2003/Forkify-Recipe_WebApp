@@ -1,5 +1,5 @@
-# Forkify - A Recipe Finding Web app
-#### Date of completion: 13 Aug 2023
+                                     # Forkify - A Recipe Finding Web app 
+#### Date of completion: 13 Aug 2023 |
 <div id="top"></div>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,8 +28,10 @@
 
 
 ## Description
-This was the final project as part of a Udemy course - [The Complete JavaScript Course 2023](https://www.udemy.com/course/the-complete-javascript-course/).
-Forkify is a recipe finding web application which uses data from the [Forkify](https://forkify-api.herokuapp.com/v2) API. While it is a fairly basic web application, it can be used as a guide to cook one's favorite dish. Beyond accessing recipes from different sources online, it also provides information on the number and amount of ingredients needed to build a specific dish according to the number of people to serve.
+Forkify is a user-friendly web application based on MVC Architecture made with Vanilla Javascript designed for discovering recipes through the Forkify API (accessible at [Forkify API v2](https://forkify-api.herokuapp.com/v2). It goes beyond being a conventional recipe aggregator by providing step-by-step guidance for cooking favorite dishes sourced from various online platforms. One of its standout features are the ability to adjust ingredient quantities based on the desired serving size,Pagination,Bookmark/unbookmark recipes,Adding own recepies and more features are to be added🚀
+
+- Available search queries : [Queries](https://forkify-api.herokuapp.com/phrases.html)
+
 
 
 
