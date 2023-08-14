@@ -75,7 +75,9 @@ Forkify is a recipe finding web application which uses data from the [Forkify](h
 ---
 ### Flowchart
 
-<img src='./src/img/forkify-flowchart.png' alt='flowchart' >
+<img src='forkify-flowchart-part-1.png' alt='flowchart' >
+<img src='forkify-flowchart-part-2.png' alt='flowchart' >
+<img src='forkify-flowchart-part-3.png' alt='flowchart' >
 
 ### Architecture
 
