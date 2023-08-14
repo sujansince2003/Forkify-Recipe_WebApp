@@ -73,6 +73,17 @@ Forkify is a recipe finding web application which uses data from the [Forkify](h
   - fractional
 
 ---
+### Flowchart
+
+<img src='./src/img/forkify-flowchart.png' alt='flowchart' >
+
+### Architecture
+
+<img src='./src/img/forkify-architecture-recipe-loading.png' alt='architecture' >
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+---
 
 ## Installation
 Run the following commands in your command line:
