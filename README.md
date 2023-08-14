@@ -81,9 +81,8 @@ Forkify is a recipe finding web application which uses data from the [Forkify](h
 
 ### Architecture
 
-<img src='./src/img/forkify-architecture-recipe-loading.png' alt='architecture' >
+<img src='forkify-architecture-recipe-loading.png' >
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
